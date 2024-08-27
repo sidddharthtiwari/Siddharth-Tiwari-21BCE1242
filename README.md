@@ -45,7 +45,7 @@ Follow these steps to get the game up and running locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone (https://github.com/sidddharthtiwari/Siddharth-Tiwari-21BCE1242.git)
    ```
 2. **Navigate to the project directory**:
    ```bash
